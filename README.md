@@ -1,6 +1,6 @@
 
 
-# TVBox
+# xiaomayitv
 
 - [使用方法](./usage.md)
 
@@ -131,7 +131,7 @@ http://www.36nu.com/apiTest
 https://maoyingshi.cc/
 
 
-## TVBox配置编辑器：
+## xiaomayitv配置编辑器：
 
 https://kvymin.github.io/CatVodTVJsonEditor/
 
@@ -139,9 +139,9 @@ https://kvymin.github.io/CatVodTVJsonEditor/
 
 [hfr1107.github.io/catvodtvjsoneditor/](https://hfr1107.github.io/CatVodTVJsonEditor/)
 
-## 给TVbox站源添加符号:
+## 给xiaomayitv站源添加符号:
 
-很多人喜欢给TVbox的站源或者电视直播频道自定义一个符号，比如下面这类，实际上就是增加了网页符号。
+很多人喜欢给xiaomayitv的站源或者电视直播频道自定义一个符号，比如下面这类，实际上就是增加了网页符号。
 
 
 ![640](https://user-images.githubusercontent.com/102397160/181132511-1bfac13d-88bb-42ce-8d1a-94e253c8379d.png)
@@ -234,7 +234,7 @@ https://tsq.lanzouf.com/b0c4p1nyf
 
 MD5获取小工具：http://www.metools.info/
 
-MD5在TVbox中的填写格式："spider": "https://j***.jar;md5;***",
+MD5在xiaomayitv中的填写格式："spider": "https://j***.jar;md5;***",
 
 ## json内资源格式参数介绍
 
